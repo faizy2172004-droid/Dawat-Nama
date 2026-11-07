@@ -1,0 +1,13 @@
+name = "dawat-nama"
+compatibility_date = "2026-11-07"
+pages_build_output_dir = "./dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dawat-nama-db"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+migrations_dir = "migrations"
+
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "dawat-nama-media"
