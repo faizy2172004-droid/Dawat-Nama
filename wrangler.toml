@@ -5,7 +5,7 @@ pages_build_output_dir = "./dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "dawat-nama-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "44e16d08-84dc-4fcc-b1bf-11023e7f26e9"
 migrations_dir = "migrations"
 
 [[r2_buckets]]
